@@ -1,0 +1,144 @@
+body{
+    background-color: gainsboro;
+}
+
+.hi{
+border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.ho{
+    border-radius: 100px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+   
+    margin-top: -70px;
+  
+}
+.welcome{
+    align-content: center;
+}
+.h{
+    margin-top: -130px;
+    margin-left: 400px;
+}
+
+.j{
+    border-radius: 100px;
+    border-color: gray;
+     border-style: solid;
+    border-width: 0.5px;
+    height: 50px;
+    width: 50px;
+    margin-top: 100px;
+    margin-bottom: -145px;
+    margin-right: 400px;
+   
+    
+}
+.k{
+    
+    margin-top: 25px;
+}
+
+.l{
+   width: 560px;
+   
+}
+.videos{
+   border-radius: 50px;
+    height: 600px;
+    width: 560px;
+    text-align: center;
+    align-items: center;
+align-items: center;
+    margin-top: 50px;
+    background-color: ghostwhite;
+}
+.o{
+    
+    width: 570px;
+     border-radius: 50px;
+    margin-top: 300px;
+   
+}
+
+.i{
+    border-radius: 100px;
+    border color: darkgray;
+    border-style: solid;
+    border-width: 10px;
+    width: 200px;
+    height: 200px;
+    margin-top: -565px;
+    margin-left: 145px;
+    
+}
+.t{
+    margin-top: -1550px;
+    align-items: center;
+  
+    margin-left: -45px;
+}
+.u{
+    
+    
+    margin-bottom: 10px;
+     margin-left: -45px;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#k{
+    margin-left: 500px;
+}
+.qe{
+   width: 560px;
+    
+   
+}
+.Campus{
+   border-radius: 50px;
+    height: 1400px;
+    width: 560px;
+    text-align: center;
+    align-items: center;
+align-items: center;
+    margin-top: 50px;
+    background-color: ghostwhite;
+}
+.qa{
+    width: 560px;
+    
+   
+}
+.qi{
+    width: 560px;
+    
+
+}
+.as{
+    width: 200px;
+     height: 200px;
+    border-radius: 20px;
+    margin-right: 900px;
+    margin-top: 30px;
+}
+
+.text-capitalize{
+   margin-right: 600px;
+    font-size: 15px;
+    margin-top: 30px;
+   
+}
+h5{
+    text-align: center;
+    
+}
+
